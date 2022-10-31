@@ -1,0 +1,24 @@
+---
+title: "แนวโน้มของผลคะแนนการอ่าน คณิตศาสตร์ และวิทยาศาสตร์ ของประเทศไทย"
+author: "ปณิธิ ทองมอญ และคณะ"
+date: 2022-10-15T21:13:14-05:00
+categories: ["R"]
+tags: ["PISA"]
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(collapse = TRUE)
+```
+
+**หัวข้อ/ประเด็นที่สนใจ:**
+แนวโน้มของผลคะแนนการอ่าน คณิตศาสตร์ และวิทยาศาสตร์ ของประเทศไทยในโปรแกรมประเมินสมรรถนะนักเรียนมาตรฐานสากล (PISA) เป็นอย่างไร หลังจากการส่งเสริมกระบวนการเรียนการสอนเพื่อสร้างกระบวนการคิดวิเคราะห์ในปี 2017 
+
+**แหล่งข้อมูล:**
+
+1. ข้อมูลผลคะแนนการอ่าน คณิตศาสตร์ และวิทยาศาสตร์ ของประเทศไทยในโปรแกรมประเมินสมรรถนะนักเรียนมาตรฐานสากล (PISA) จำแนกตามกลุ่มโรงเรียน จาก สสวท. เข้าถึงได้จาก https://pisathailand.ipst.ac.th/pisa-results/
+2. ข้อมูลร้อยละของสถานศึกษากระบวนการเรียนการสอนเพื่อสร้างกระบวนการคิดวิเคราะห์ จาก สำนักงานปลัดกระทรวงศึกษาธิการ เข้าถึงได้จาก https://sp.moe.go.th/sp_2561/spinfo/?module=policy041
+
+![image](~/Downloads/HWBlogdown/HW6/content/posts/2020-12-01-r-rmarkdown/index.en_files/figure-html/p1.jpg)
+![image](~/Downloads/HWBlogdown/HW6/content/posts/2020-12-01-r-rmarkdown/index.en_files/figure-html/p2.jpg)
+![image](~/Downloads/HWBlogdown/HW6/content/posts/2020-12-01-r-rmarkdown/index.en_files/figure-html/p3.jpg)
+
